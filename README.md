@@ -1,2 +1,2 @@
 # FitSparkApp
-AI-powered Fitness App with Daily Motivation
+AI-powered Fitness App with Daily Motivation 
